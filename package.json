@@ -1,5 +1,5 @@
 {
-  "name": "trytomanage.com",
+  "name": "tryingtomanage.com",
   "version": "0.0.1",
   "description": "Watch me work, watch me (try to) manage (๑˃ᴗ˂)ﻭ",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tzmanics/trytomanage.com.git"
+    "url": "git+https://github.com/tzmanics/tryingtomanage.com.git"
   },
   "keywords": [
     "blog",
@@ -20,9 +20,9 @@
   "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.dev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tzmanics/trytomanage.com/issues"
+    "url": "https://github.com/tzmanics/tryingtomanage.com/issues"
   },
-  "homepage": "https://github.com/tzmanics/trytomanage.com#readme",
+  "homepage": "https://github.com/tzmanics/tryingtomanage.com#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.4",
     "vue": "^3.2.37"

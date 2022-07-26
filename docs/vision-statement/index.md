@@ -1,4 +1,4 @@
-# Try to Manage's Vision Statement
+# Trying to Manage: A Vision Statement
 
 I don't know if what I'm doing is right, or good, or if it makes sense outside of my own brain. Like many things in my life, there is a fantastic probability that I'll look back and say, "Oh, you silly goose, there was a much better way to handle that."
 

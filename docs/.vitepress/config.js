@@ -16,7 +16,7 @@ export default {
     //   Head navigation
     nav: [
       { text: 'home', link: '/' },
-      { text: 'vision statement', link: '/vision-statement' },
+      { text: 'vision statement', link: 'stuff/vision-statement' },
     ],
     //   Side navigation
     sidebar: [
